@@ -1,6 +1,6 @@
-# **the_last_braincell**
+# **the-last-braincell**
 
-Welcome to **the_last_braincell**, where I explore and experiment with a variety of ideas, thoughts, and musings from all corners of the mind. Here, you’ll find a mix of curious reflections, random insights, and offbeat experiments, all presented with a dose of humor and a touch of chaos.
+Welcome to **the-last-braincell**, where I explore and experiment with a variety of ideas, thoughts, and musings from all corners of the mind. Here, you’ll find a mix of curious reflections, random insights, and offbeat experiments, all presented with a dose of humor and a touch of chaos.
 
 ## What to Expect
 - A space to dive into new ideas and see where they lead.
